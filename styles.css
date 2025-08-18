@@ -1,0 +1,55 @@
+body{
+    color:#6f2e0e;
+    background: #00990085;
+    margin: 0px;
+    font-family: "Libertinus Sans", sans-serif;
+    
+}
+
+header{
+    border-bottom: solid 2px #002643;
+    padding: 20px;
+    font-size: 32px;
+    color: #002643;
+}
+
+.chamada{
+    background: #1b7fcccc;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: %;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;  
+}
+
+
+.categoria-videos{
+    displey: flex;
+    overflow-x: auto;
+    gap:20px;
+}
+
+section{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-videos img {
+opacity: 0.5;
+border: green;
+}
+
+.categoria h2{
+    color: green;
+}
